@@ -1,0 +1,8 @@
+Origin: elysiumlabs
+Label: Elysium Lab's repo
+Suite: stable
+Version: 1.0
+Codename: elysiumRepo
+Architectures: iphoneos-arm
+Components: main
+Description: Elysium Labs Cydia Repository
